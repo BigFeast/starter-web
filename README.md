@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 You can contribute any way you would like
 
 ## Deployment
+
+You can deploy any way you want.
