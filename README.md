@@ -20,3 +20,7 @@ You can contribute any way you would like
 You can deploy any way you want.
 
 Adding more text on master branch
+
+## Copyright
+
+This is the copyright text.
